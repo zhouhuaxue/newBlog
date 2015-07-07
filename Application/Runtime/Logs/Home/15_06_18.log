@@ -1,0 +1,16 @@
+[ 2015-06-18T08:16:53+08:00 ] 127.0.0.1 /study/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.058624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.050275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.050359s ]
+
+[ 2015-06-18T11:18:45+08:00 ] 127.0.0.1 /study/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026473s ]
+

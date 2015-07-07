@@ -1,0 +1,56 @@
+body{
+    background-image: url("Img/bodybg3.jpg");
+}
+div.relative{
+    position: relative;
+    left: 200px;
+    right: 200px;
+}
+p.register{
+    word-spacing: 20px;
+}
+#container{
+    width: 900px;
+    height: 500px;
+    background-color: #fafafa;
+ 
+}
+#header{
+   height:100px ;
+}
+#header_font{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 350px;
+    top: 20px;
+}
+#regist_outer{
+    height: 400px;
+    width: 600px;
+    float: left;
+}
+#regist_inner{
+    height: 300px;
+    left: 100px;
+    top: 50px;
+    position: relative;
+}
+#introduction{
+    height: 400px;
+    width: 300px;
+    float: right;
+}
+#instroduction_inner{
+    height: 300px;
+    left: 80px;
+    top: 50px;
+    position: relative;
+
+}
+#footer{
+    height: 50px;
+    clear: both;
+    text-align:center;
+    background-color:#999999;
+}

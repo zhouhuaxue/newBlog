@@ -1,0 +1,43 @@
+
+
+
+body{
+    background: cover;
+    background-image: url("Img/bodybg3.jpg")
+}
+div.relative{
+    position: relative;
+    left: 130px;
+    right: 30px;
+}
+div.background
+{
+    width: 1024px;
+    height: 625px;
+    margin:15px;
+    background: url('Img/headerbg1.jpg') no-repeat;
+    border: 1px solid black;
+}
+
+div.transbox
+{
+    width: 724px;
+    height: 400px;
+    margin:150px;
+    padding:0;
+    background-color: #ffffff;
+    border: 1px solid black;
+    /* for IE */
+    filter:alpha(opacity=60);
+    /* CSS3 standard */
+    opacity:0.6;
+}
+
+div.transbox p
+{
+    margin: 30px 40px;
+    color: #000000;
+    font:bold 12px Verdana, Geneva, sans-serif;
+    line-height:1.5;
+}
+
